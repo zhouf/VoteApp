@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyVote</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">欢迎使用！</string>
+    <string name="lab_approve">赞成</string>
+    <string name="lab_object">反对</string>
+    <string name="lab_abstain">弃权</string>
+</resources>
